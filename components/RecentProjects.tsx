@@ -77,7 +77,6 @@ const RecentProjects = () => {
                     <FaLocationArrow className="ms-3" color="#CBACF9" />
                   </a>
 
-                  {/* GitHub Link Icon */}
                   <a
                     href={item.githubLink}
                     target="_blank"
